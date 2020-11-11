@@ -1,0 +1,13 @@
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\bin\Debug\netcoreapp3.1\AddressBookThreading.exe
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\bin\Debug\netcoreapp3.1\AddressBookThreading.deps.json
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\bin\Debug\netcoreapp3.1\AddressBookThreading.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\bin\Debug\netcoreapp3.1\AddressBookThreading.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\bin\Debug\netcoreapp3.1\AddressBookThreading.dll
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\bin\Debug\netcoreapp3.1\AddressBookThreading.pdb
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\obj\Debug\netcoreapp3.1\AddressBookThreading.csprojAssemblyReference.cache
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\obj\Debug\netcoreapp3.1\AddressBookThreading.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\obj\Debug\netcoreapp3.1\AddressBookThreading.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\obj\Debug\netcoreapp3.1\AddressBookThreading.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\obj\Debug\netcoreapp3.1\AddressBookThreading.dll
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\obj\Debug\netcoreapp3.1\AddressBookThreading.pdb
+C:\Users\Kartikeya\source\repos\AddressBookThreading\AddressBookThreading\obj\Debug\netcoreapp3.1\AddressBookThreading.genruntimeconfig.cache

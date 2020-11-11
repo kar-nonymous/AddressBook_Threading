@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookThreading", "AddressBookThreading\AddressBookThreading.csproj", "{7613A900-3597-4C76-A460-8164E0557A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{CAC2BAF8-D4F2-4E67-AB4E-ED6201FC7DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7613A900-3597-4C76-A460-8164E0557A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7613A900-3597-4C76-A460-8164E0557A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7613A900-3597-4C76-A460-8164E0557A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7613A900-3597-4C76-A460-8164E0557A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC2BAF8-D4F2-4E67-AB4E-ED6201FC7DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC2BAF8-D4F2-4E67-AB4E-ED6201FC7DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC2BAF8-D4F2-4E67-AB4E-ED6201FC7DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC2BAF8-D4F2-4E67-AB4E-ED6201FC7DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F311367-3517-4FFB-9B5A-763337CB4646}
+	EndGlobalSection
+EndGlobal
